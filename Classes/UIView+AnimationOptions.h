@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-UIKIT_EXTERN UIViewAnimationOptions UIViewAnimationOptionsForCurve(UIViewAnimationCurve curve);
+UIKIT_EXTERN UIViewAnimationOptions UIViewAnimationOptionsForAnimationCurve(UIViewAnimationCurve curve);
 
 @interface UIView (AnimationOptions)
 

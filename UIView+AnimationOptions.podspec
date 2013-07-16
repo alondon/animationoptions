@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/alondon/animationoptions"
   s.license      = 'MIT'
   s.author       = { "Aaron London" => "github@postmechanical.com" }
-  s.source       = { :git => "http://EXAMPLE/UIView+AnimationOptions.git", :tag => "0.0.1" }
+  s.source       = { :git => "https://github.com/alondon/animationoptions.git", :tag => "0.0.2" }
   s.source_files = 'Classes', 'Classes/**/*.{h,m}'
   s.requires_arc = true
 end
